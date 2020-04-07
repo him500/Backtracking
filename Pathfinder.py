@@ -1,8 +1,5 @@
 from itertools import product
 
-
-
-
 def findpath(maze,position):
     if position==(N-1,N-1):
         return [(N-1,N-1)]
