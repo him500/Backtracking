@@ -5,4 +5,4 @@ Various problems are solved here using backtracking algorithm
 3) N Queen
 
 
-...more will come
+...more will be updated
